@@ -24,3 +24,5 @@ Colors: https://en.wikipedia.org/wiki/ANSI_escape_code#8-bit
 
 ## Usages:
 See example.html
+
+![alt text](https://github.com/ellisgl/twitter-pc-ansi.css/blob/release/example.gif?raw=true)

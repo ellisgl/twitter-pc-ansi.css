@@ -1,6 +1,4 @@
 # TwtPcAns.css
-Challenge: https://twitter.com/ellisgl/status/1441827730635558915
-
 What is TwtPcAns.css
 * 80 column CSS framework that mostly feels like an PC ANSI setup.
 * 16 colors of retro goodness.
